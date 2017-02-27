@@ -1,0 +1,32 @@
+Variables description as comment
+Import statements on the top
+
+
+arrService- serviceInfo
+
+
+Make this Generic
+
+
+
+Make this both Command Mode and File Mode
+
+
+
+Use Config mode- Flag - to indicate File Mode or Commandline mode
+
+
+Make this exception handled
+
+Get-Content statement - make it as unit tested
+Test Cased- file not present, file empty
+
+Wherever binary conditions- use elseif
+
+Change the name to ExecuteRemoteCommand
+
+parameters for the File- Both the command and type of Command
+
+Make it as a Function and put it in a Module
+
+

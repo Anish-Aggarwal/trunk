@@ -1,0 +1,9 @@
+1) Add Database context at the top of the each file
+2) if db build is successful, checkin the scripts
+3) send in a email to the required person for the build failure- Not done
+
+
+
+savepath -parameter
+servername -parameter
+database to script out-parameter

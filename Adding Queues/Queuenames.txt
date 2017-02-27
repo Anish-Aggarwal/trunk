@@ -1,0 +1,13 @@
+cmrs.dealstorage.inputqueue
+cmrs.dtcc.acknackoutput
+cmrs.dtcc.fpmlcnfm
+cmrs.dtcc.fpmldocument
+cmrs.dtcc.fpmlpet
+cmrs.dtcc.fpmlprt
+cmrs.dtcc.fpmlss
+cmrs.dtcc.reprocessmessage
+cmrs.tnt.deadletterqueue
+cmrs.tnt.outputqueue
+cmrs.tnt.retryparkingqueue
+cmrs.tnt.retryqueue
+cmrs.xmlqueue
